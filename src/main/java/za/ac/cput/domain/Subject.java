@@ -1,7 +1,9 @@
 package za.ac.cput.domain;
 
 import java.util.List;
-
+//Mlungisi Mbuyazi
+// 221164014
+// https://github.com/Skiet88/universitycourse
 public class Subject {
 
     private String subjectCode;
